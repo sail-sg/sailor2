@@ -1,8 +1,10 @@
 # Sailor2: Sailing in South-East Asia with Inclusive Multilingual LLMs 
 
-
 [![Homepage](https://img.shields.io/badge/🏠-Homepage-3C47EB.svg)](https://sailorllm.github.io/blog/sailor2) &nbsp;&nbsp; [![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-E87948.svg)](https://huggingface.co/sail/Sailor2-20B-Chat) &nbsp;&nbsp; [![SailCraft](https://img.shields.io/badge/🚢-SailCraft-4F94CD.svg)](https://github.com/sail-sg/sailcraft)
 
+This repository contains the code for Sailor2, a powerful and inclusive open language models for South-East Asia.
+
+Sailor2 is a collaborative project partnered with Sea AI Lab, SCB10X, WiseSight, HuggingFace and the Sailor2 Community.
 
 <div align="center">
   <img src="misc/sailor2_banner.jpg" width="700"/>
