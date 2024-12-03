@@ -1,6 +1,6 @@
 # Sailor2: Sailing in South-East Asia with Inclusive Multilingual LLMs 
 
-[![Homepage](https://img.shields.io/badge/🏠-Homepage-3C47EB.svg)](https://sailorllm.github.io/blog/sailor2) &nbsp;&nbsp; [![HuggingFace](https://img.shields.io/badge/🤗-Model&Demo-E87948.svg)](https://huggingface.co/collections/sail/sailor2-language-models-674d7c9e6b4dbbd9a869906b) &nbsp;&nbsp; [![SailCraft](https://img.shields.io/badge/🚢-SailCraft(DataCleaning)-4F94CD.svg)](https://github.com/sail-sg/sailcraft) &nbsp;&nbsp; [![SailCompass](https://img.shields.io/badge/🧭-SailCompass(Evaluation)-ffbf00.svg)](https://github.com/sail-sg/sailcompass)
+[![Homepage](https://img.shields.io/badge/🏠-Homepage-3C47EB.svg)](https://sea-sailor.github.io/blog/sailor2/) &nbsp;&nbsp; [![HuggingFace](https://img.shields.io/badge/🤗-Model&Demo-E87948.svg)](https://huggingface.co/collections/sail/sailor2-language-models-674d7c9e6b4dbbd9a869906b) &nbsp;&nbsp; [![SailCraft](https://img.shields.io/badge/🚢-SailCraft(DataCleaning)-4F94CD.svg)](https://github.com/sail-sg/sailcraft) &nbsp;&nbsp; [![SailCompass](https://img.shields.io/badge/🧭-SailCompass(Evaluation)-ffbf00.svg)](https://github.com/sail-sg/sailcompass)
 
 
 
@@ -26,7 +26,7 @@ These languages include English, Chinese, Burmese, Cebuano, Ilocano, Indonesian,
 By addressing the growing demand for diverse, robust, and accessible language models, 
 Sailor2 seeks to serve the underserved in SEA areas with open, inclusive, and accessible multilingual LLMs.
 
-Refer to [Sailor2 Homepage](https://sailorllm.github.io/blog/sailor2) for more training details.
+Refer to [Sailor2 Homepage](https://sea-sailor.github.io/blog/sailor2/) for more training details.
 
 ## Release Check List
 
