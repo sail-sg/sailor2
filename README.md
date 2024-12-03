@@ -1,6 +1,6 @@
 # Sailor2: Sailing in South-East Asia with Inclusive Multilingual LLMs 
 
-[![Homepage](https://img.shields.io/badge/🏠-Homepage-3C47EB.svg)](https://sailorllm.github.io/blog/sailor2) &nbsp;&nbsp; [![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-E87948.svg)](https://huggingface.co/sail/Sailor2-20B-Chat) &nbsp;&nbsp; [![SailCraft](https://img.shields.io/badge/🚢-SailCraft-4F94CD.svg)](https://github.com/sail-sg/sailcraft)
+[![Homepage](https://img.shields.io/badge/🏠-Homepage-3C47EB.svg)](https://sailorllm.github.io/blog/sailor2) &nbsp;&nbsp; [![HuggingFace](https://img.shields.io/badge/🤗-Model&Demo-E87948.svg)]([https://huggingface.co/sail/Sailor2-20B-Chat](https://huggingface.co/collections/sail/sailor2-language-models-674d7c9e6b4dbbd9a869906b)) &nbsp;&nbsp; [![SailCraft](https://img.shields.io/badge/🚢-SailCraft(Data)-4F94CD.svg)](https://github.com/sail-sg/sailcraft) &nbsp;&nbsp; [![SailCompass](https://img.shields.io/badge/🧭-SailCompass(Evaluation)-ffbf00.svg)](https://github.com/sail-sg/sailcompass)
 
 This repository contains the code for Sailor2, a powerful and inclusive open language models for South-East Asia.
 
