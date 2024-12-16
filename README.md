@@ -104,7 +104,7 @@ If you find Sailor2 useful, please cite our work as follows:
 ```
 @misc{sailor2report,
   title={Sailor2: Sailing in South-East Asia with Inclusive Multilingual LLM},
-  author={Sailor2 Team},
+  author={{Sailor2 Team}},
   year={2024}
 }
 ```
