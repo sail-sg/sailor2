@@ -103,9 +103,9 @@ If you find Sailor2 useful, please cite our work as follows:
 
 ```
 @misc{sailor2report,
-  title={Sailor2: Sailing in South-East Asia with Inclusive Multilingual LLM},
-  author={{Sailor2 Team}},
-  year={2024}
+  title  = {Sailor2: Sailing in South-East Asia with Inclusive Multilingual LLM},
+  author = {Longxu Dou and Qian Liu and Fan Zhou and Changyu Chen and Zili Wang and Ziqi Jin and Zichen Liu and Tongyao Zhu and Cunxiao Du and Penghui Yang and Haonan Wang and Jiaheng Liu and Yongchi Zhao and Xiachong Feng and Xin Mao and Man Tsung Yeung and Kunat Pipatanakul and Fajri Koto and Min Si Thu and Hynek Kydl{\'\i}{\v{c}}ek and Zeyi Liu and Qunshu Lin and Sittipong Sripaisarnmongkol and Kridtaphad Sae-Khow and Nirattisai Thongchim and Taechawat Konkaew and Narong Borijindargoon and Anh Dao and Matichon Maneegard and Phakphum Artkaew and Zheng-Xin Yong and Quan Nguyen and Wannaphong Phatthiyaphaibun and Hoang H. Tran and Mike Zhang and Shiqi Chen and Tianyu Pang and Chao Du and Xinyi Wan and Wei Lu and Min Lin},
+  year   = {2024}
 }
 ```
 
