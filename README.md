@@ -1,6 +1,6 @@
 # Sailor2: Sailing in South-East Asia with Inclusive Multilingual LLMs 
 
-[![Homepage](https://img.shields.io/badge/🏠-Homepage-3C47EB.svg)](https://sea-sailor.github.io/blog/sailor2/) &nbsp;&nbsp; [![HuggingFace](https://img.shields.io/badge/🤗-Model&Demo-E87948.svg)](https://huggingface.co/collections/sail/sailor2-language-models-674d7c9e6b4dbbd9a869906b) &nbsp;&nbsp; [![SailCraft](https://img.shields.io/badge/🚢-SailCraft(DataCleaning)-4F94CD.svg)](https://github.com/sail-sg/sailcraft) &nbsp;&nbsp; [![SailCompass](https://img.shields.io/badge/🧭-SailCompass(Evaluation)-ffbf00.svg)](https://github.com/sail-sg/sailcompass)
+[![Homepage](https://img.shields.io/badge/🏠-Homepage-3C47EB.svg)](https://sea-sailor.github.io/blog/sailor2/) &nbsp;&nbsp; [![Technical Report](https://img.shields.io/badge/arXiv-Report-b31b1b.svg)](https://arxiv.org/pdf/2502.12982) &nbsp;&nbsp; [![HuggingFace](https://img.shields.io/badge/🤗-Model&Demo-E87948.svg)](https://huggingface.co/collections/sail/sailor2-language-models-674d7c9e6b4dbbd9a869906b) &nbsp;&nbsp; [![SailCraft](https://img.shields.io/badge/🚢-SailCraft(DataCleaning)-4F94CD.svg)](https://github.com/sail-sg/sailcraft) &nbsp;&nbsp; [![SailCompass](https://img.shields.io/badge/🧭-SailCompass(Evaluation)-ffbf00.svg)](https://github.com/sail-sg/sailcompass)
 
 
 
