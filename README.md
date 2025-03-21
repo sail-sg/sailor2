@@ -30,8 +30,6 @@ Refer to [Sailor2 Homepage](https://sea-sailor.github.io/blog/sailor2/) for more
 
 ## Release Check List
 
-> We are working hard to prepare the release of all code, and please stay tuned!
-
 - [x] [Data Cleaning Code](https://github.com/sail-sg/sailcraft)
 - [x] [Data Mixture Code](https://github.com/sail-sg/regmix)
 - [x] [Pre-training Code](https://github.com/sail-sg/Megatron-Sailor2)
