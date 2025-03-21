@@ -32,9 +32,12 @@ Refer to [Sailor2 Homepage](https://sea-sailor.github.io/blog/sailor2/) for more
 
 > We are working hard to prepare the release of all code, and please stay tuned!
 
-- [ ] Evaluation Code
-- [ ] Pre-training Code
-- [ ] Post-training Code
+- [x] [Data Cleaning Code](https://github.com/sail-sg/sailcraft)
+- [x] [Data Mixture Code](https://github.com/sail-sg/regmix)
+- [x] [Pre-training Code](https://github.com/sail-sg/Megatron-Sailor2)
+- [x] [Post-training Code](https://github.com/sail-sg/oat)
+- [x] [Base Model Evaluation Code](https://github.com/sail-sg/sailcompass)
+- [x] [Chat Model Evaluation Code](https://github.com/sail-sg/SEA-WildBench)
 - [x] [Base and Chat Models](https://huggingface.co/collections/sail/sailor2-language-models-674d7c9e6b4dbbd9a869906b)
 
 
